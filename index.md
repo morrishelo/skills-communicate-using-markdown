@@ -18,3 +18,4 @@ int second = 2;
 int sum = (float) first + (float) second;
 printf ("The SUM is: %i\n", sum);
 ```
+![Commiting an image](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wtcl?ver=7fc3)
