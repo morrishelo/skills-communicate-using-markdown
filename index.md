@@ -19,3 +19,8 @@ int sum = (float) first + (float) second;
 printf ("The SUM is: %i\n", sum);
 ```
 ![Commiting an image](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wtcl?ver=7fc3)
+**2nd meaningful _commit_ is:**
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
