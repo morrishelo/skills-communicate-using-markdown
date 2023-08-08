@@ -24,3 +24,7 @@ printf ("The SUM is: %i\n", sum);
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+**My task list:**
+- [x] Turn on GitHub Pages.
+- [x] Outline my portfolio.
+- [ ] Introduce myself to the world!
